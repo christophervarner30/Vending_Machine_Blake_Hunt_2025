@@ -1,0 +1,14 @@
+C:\Users\BlinH\source\repos\Vending-Machine_Blake-Hunt\bin\Debug\net8.0\Vending-Machine_Blake-Hunt.exe
+C:\Users\BlinH\source\repos\Vending-Machine_Blake-Hunt\bin\Debug\net8.0\Vending-Machine_Blake-Hunt.deps.json
+C:\Users\BlinH\source\repos\Vending-Machine_Blake-Hunt\bin\Debug\net8.0\Vending-Machine_Blake-Hunt.runtimeconfig.json
+C:\Users\BlinH\source\repos\Vending-Machine_Blake-Hunt\bin\Debug\net8.0\Vending-Machine_Blake-Hunt.dll
+C:\Users\BlinH\source\repos\Vending-Machine_Blake-Hunt\bin\Debug\net8.0\Vending-Machine_Blake-Hunt.pdb
+C:\Users\BlinH\source\repos\Vending-Machine_Blake-Hunt\obj\Debug\net8.0\Vending-Machine_Blake-Hunt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BlinH\source\repos\Vending-Machine_Blake-Hunt\obj\Debug\net8.0\Vending-Machine_Blake-Hunt.AssemblyInfoInputs.cache
+C:\Users\BlinH\source\repos\Vending-Machine_Blake-Hunt\obj\Debug\net8.0\Vending-Machine_Blake-Hunt.AssemblyInfo.cs
+C:\Users\BlinH\source\repos\Vending-Machine_Blake-Hunt\obj\Debug\net8.0\Vending-Machine_Blake-Hunt.csproj.CoreCompileInputs.cache
+C:\Users\BlinH\source\repos\Vending-Machine_Blake-Hunt\obj\Debug\net8.0\Vending-Machine_Blake-Hunt.dll
+C:\Users\BlinH\source\repos\Vending-Machine_Blake-Hunt\obj\Debug\net8.0\refint\Vending-Machine_Blake-Hunt.dll
+C:\Users\BlinH\source\repos\Vending-Machine_Blake-Hunt\obj\Debug\net8.0\Vending-Machine_Blake-Hunt.pdb
+C:\Users\BlinH\source\repos\Vending-Machine_Blake-Hunt\obj\Debug\net8.0\Vending-Machine_Blake-Hunt.genruntimeconfig.cache
+C:\Users\BlinH\source\repos\Vending-Machine_Blake-Hunt\obj\Debug\net8.0\ref\Vending-Machine_Blake-Hunt.dll
